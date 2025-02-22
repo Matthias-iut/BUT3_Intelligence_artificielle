@@ -142,9 +142,6 @@ def f1(y_true, y_pred):
 
 model.compile(optimizer='adam',loss='binary_crossentropy',metrics=['accuracy', Recall(), f1])
 
-# Question 5 :
-#
-# à faire avant dimanche
 model.fit(
         train_dataset,
         steps_per_epoch=1000,
