@@ -1,0 +1,8 @@
+Rapport du Modèle de Régression Polynomiale (degré 4)
+===================================================
+
+R² Score: 0.8740
+RMSE: 1.3676°C
+
+Nombre de coefficients: 35
+Constante: 9.2110
